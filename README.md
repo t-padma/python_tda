@@ -1,5 +1,5 @@
 # TDA using python [In progress...]
-This repository will contain TDA implementation in Python. The modules I will focus on are:
+This repository contains TDA implementation in Python. Some of the available TDA modules:
 1. [scikit-tda](https://docs.scikit-tda.org/en/latest/)
 2. [giotto-tda](https://giotto-ai.github.io/gtda-docs/0.5.1/library.html)
 3. [GUDHI](https://gudhi.inria.fr/python/latest/)
